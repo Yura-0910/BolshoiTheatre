@@ -1,2 +1,2 @@
 # BolshoiTheatre
-Date.py - считаем разницу в минутах
+Minutes.py - считаем разницу в минутах
